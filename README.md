@@ -30,7 +30,7 @@ Leveraging technology is vital to addressing the outlined issues. By adhering to
 
 Computers
 
-Programming Languages (C++,JS,CSS)
+Programming Languages (C++,JS,CSS, React)
 
 Integrated Development Environments (IDEs) like Visual Studio 2022 and Visual Studio Code.
 
